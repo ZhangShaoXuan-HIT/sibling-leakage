@@ -1,5 +1,7 @@
 # Augmentation-induced sibling leakage in small-data surface imaging
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24082523.svg)](https://doi.org/10.5281/zenodo.24082523)
+
 Reproduction package for the manuscript *"Augmentation-induced sibling leakage in
 small-data surface imaging: measurement and a reporting protocol"*.
 
