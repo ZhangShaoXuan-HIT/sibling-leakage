@@ -1,9 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite the manuscript and the archived release."
 title: "Augmentation-induced sibling leakage in small-data surface imaging"
+type: software
 authors:
   - family-names: "Zhang"
     given-names: "Shaoxuan"
+    orcid: "https://orcid.org/0009-0001-4103-6099"
+    affiliation: "Faculty of Computing, Harbin Institute of Technology, Harbin, Heilongjiang, China"
 version: 1.0.1
 date-released: 2026-11-09
 license: MIT
